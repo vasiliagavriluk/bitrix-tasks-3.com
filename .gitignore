@@ -21,3 +21,4 @@
 
 #Exclude default file storage directory
 /upload/
+/desktop_app/

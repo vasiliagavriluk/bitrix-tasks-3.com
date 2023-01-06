@@ -1,21 +1,10 @@
-# Курсы на неделю:
-Администратор. Базовый	https://dev.1c-bitrix.ru/learning/course/index.php?COURSE_ID=35  
-Администратор. Модули	https://dev.1c-bitrix.ru/learning/course/index.php?COURSE_ID=41  
+# Курсы на 3 неделю:
+Администратор. Бизнес	https://dev.1c-bitrix.ru/learning/course/index.php?COURSE_ID=42  
+Разработчик Bitrix Framework	https://dev.1c-bitrix.ru/learning/course/index.php?COURSE_ID=43  
 # Задачи на неделю:
-Сделать веб-форму  
+Сдать тесты в администраторе  
 
-![Alt text](tasks-2_1.jpg)
+Сделать шаблон комплексного компонента news. На главной подключить news.list, на детальной news.detail (Дополнительно) 
 
-Сделать шаблон компонента form.result.new, интегрированный с формой  
-
-![Alt text](tasks-2_2.jpg)
-
-
-Сдать тесты в курсах  
-
-
-# Данные для входа в crm:
-
-    Login: Admin
-    Password: 123123
-
+Сделать разбивку по разделам  
+![Alt text](tasks-3.jpg)
