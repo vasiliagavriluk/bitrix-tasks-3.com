@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fa0493cf-b141-4ffa-8166-1293a17e25c0" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="ProjectId" id="2Jtx8RP4AsF4LybqFkfi12WfbjN" />
+  <component name="ProjectViewState">
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="RunOnceActivity.laravel-idea.search-composer-json" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/local/templates/build/components/bitrix/news/.default/bitrix/news.detail/.default" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\OSPanel\domains\bitrix-tasks-3.com\local\templates\build\components\bitrix\news\.default\bitrix\news.detail\.default" />
+      <recent name="D:\OSPanel\domains\bitrix-tasks-3.com\local\templates\build\components\bitrix\news.detail\news.detail" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\OSPanel\domains\bitrix-tasks-3.com\local\templates\build\components\bitrix\news\.default\bitrix\news.detail" />
+      <recent name="D:\OSPanel\domains\bitrix-tasks-3.com\local\templates\build\components\bitrix\news\.default\bitrix\news.detail\.default" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fa0493cf-b141-4ffa-8166-1293a17e25c0" name="Default Changelist" comment="" />
+      <created>1672911029292</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1672911029292</updated>
+      <workItem from="1672911034114" duration="1445000" />
+      <workItem from="1672993141904" duration="1590000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
